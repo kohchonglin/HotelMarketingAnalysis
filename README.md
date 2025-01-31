@@ -3,8 +3,8 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [About Data](#about-data)
-- [The Reverie Dashboard](dashboard)
-- [Key Insights and Recommendations](key-insights-and-recommendations)
+- [The Reverie Dashboard](#dashboard)
+- [Key Insights and Recommendations](#key-insights-and-recommendations)
 
 ### Project Overview
 The shareholders of The Reverie have requested a dashboard to analyze the performance of past bookings, along with customer profiles and preferences. Additionally, they seek actionable insights to support the development of a targeted and impactful marketing campaign.
